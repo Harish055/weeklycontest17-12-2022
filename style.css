@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:font-family: 'Inter', sans-serif;
+}
+body
+{
+position: relative;
+max-width: 200vh;
+width: 80vh;
+padding: 50px;
+border: 1px solid;
+height: 350px;
+box-shadow: 10px 5px 5px #000;
+}
+
+#email{
+    width:360px;
+    height: 28px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+#password{
+    width: 360px;
+    height: 28px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+.btn{
+    width: 128px;
+    height: 28px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
